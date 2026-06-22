@@ -1,0 +1,60 @@
+retur_id,invoice_id,sku_id,customer_id,return_date,sku_name,kategori,value_return,return_reason_cleaned,customer_type_cleaned,region_cleaned,upper_bound
+RT00042,010029,D001,RSP053,2024-03-02,Tensimeter Digital Lengan,Diagnostik,1468000.0,Barang Rusak,RS Pemerintah,Jakarta Utara,4107875.0
+RT00046,010092,B002,RSS044,2024-05-14,Gunting Bedah Bengkok 14cm,Bedah & Tindakan,417500.0,Salah Pesan Customer,RS Swasta,Jakarta Selatan,4107875.0
+RT00021,009825,L002,RSS056,2024-11-22,Tabung Vacutainer Plain,Laboratorium,478000.0,Salah Input Sistem,RS Swasta,Bekasi,4107875.0
+RT00023,009861,R007,KLN012,2024-12-23,Tiang Infus Stainless 5-Roda,Perawatan & Rawat Inap,6207500.0,Salah Pesan Customer,Klinik,Bogor,4107875.0
+RT00027,009902,C020,KLN059,2024-08-06,Spalk Lengan Anak,Consumable,252000.0,Salah Input Sistem,Klinik,Jakarta Timur,4107875.0
+RT00024,009867,R005,KLN067,2024-09-14,Bantal Angin Anti Decubitus,Perawatan & Rawat Inap,1290000.0,Salah Pesan Customer,Klinik,Jakarta Barat,4107875.0
+RT00005,009543,L010,RSP012,2024-08-22,Objek Glass Frosted,Laboratorium,855000.0,Salah Input Sistem,RS Pemerintah,Bekasi,4107875.0
+RT00053,010143,D007,RSS004,2024-06-05,Rapid Test HbsAg,Diagnostik,8195000.0,Salah Input Sistem,RS Swasta,Jakarta Barat,4107875.0
+RT00055,010155,D003,RSS058,2024-07-04,Pulse Oximeter,Diagnostik,4650000.0,Salah Input Sistem,RS Swasta,Jakarta Barat,4107875.0
+RT00037,009970,D011,KLN015,2024-06-16,Urine Stick 10 Parameter,Diagnostik,18473000.0,Salah Pesan Customer,Klinik,Bekasi,4107875.0
+RT00045,010078,L004,RSP017,2024-12-09,Holder Vacutainer,Laboratorium,367500.0,Salah Input Sistem,RS Pemerintah,Jakarta Barat,4107875.0
+RT00006,009548,R011,RSS038,2024-12-04,Selimut Pasien Rumah Sakit,Perawatan & Rawat Inap,1045000.0,Salah Pesan Customer,RS Swasta,Jakarta Selatan,4107875.0
+RT00015,009669,D014,KLN028,2024-01-26,Timbangan Bayi Digital,Diagnostik,1587000.0,Salah Input Sistem,Klinik,Jakarta Pusat,4107875.0
+RT00034,009950,C006,RSS075,2024-09-04,Infus Set Anak,Consumable,202500.0,Salah Input Sistem,RS Swasta,Jakarta Barat,4107875.0
+RT00002,009510,B014,RSP030,2024-07-21,Duk Operasi 80x90cm,Bedah & Tindakan,1067000.0,Salah Pesan Customer,RS Pemerintah,Bekasi,4107875.0
+RT00018,009749,D002,RSS018,2024-09-19,Tensimeter Manual Dewasa,Diagnostik,1908000.0,Salah Input Sistem,RS Swasta,Depok,4107875.0
+RT00056,010158,D002,KLN073,2024-11-10,Tensimeter Manual Dewasa,Diagnostik,469000.0,Salah Pesan Customer,Klinik,Jakarta Barat,4107875.0
+RT00036,009969,B009,RSS026,2024-04-25,Benang Catgut 2-0,Bedah & Tindakan,5537000.0,Salah Pesan Customer,RS Swasta,Jakarta Utara,4107875.0
+RT00040,010023,C005,KLN036,2024-12-05,Infus Set Dewasa,Consumable,84000.0,Salah Pesan Customer,Klinik,Jakarta Selatan,4107875.0
+RT00028,009926,R011,RSS066,2024-09-04,Selimut Pasien Rumah Sakit,Perawatan & Rawat Inap,657000.0,Salah Pesan Customer,RS Swasta,Bekasi,4107875.0
+RT00016,009694,B004,RSS057,2024-10-13,Pinset Bedah 14cm,Bedah & Tindakan,912000.0,Salah Input Sistem,RS Swasta,Tangerang,4107875.0
+RT00031,009934,L005,RSS067,2024-09-02,Jarum Vacutainer 21G,Laboratorium,1885000.0,Barang Rusak,RS Swasta,Tangerang,4107875.0
+RT00039,010010,C019,RSS003,2024-07-03,NGT 16Fr,Consumable,390000.0,Kadaluarsa,RS Swasta,Bekasi,4107875.0
+RT00011,009644,R009,RSS074,2024-10-11,Urinal Pria Plastik,Perawatan & Rawat Inap,1122000.0,Salah Pesan Customer,RS Swasta,Jakarta Selatan,4107875.0
+RT00043,010033,D013,RSS037,2024-07-17,Stethoscope Anak,Diagnostik,2761000.0,Kadaluarsa,RS Swasta,Jakarta Barat,4107875.0
+RT00032,009937,L005,RSS026,2024-12-13,Jarum Vacutainer 21G,Laboratorium,736000.0,Salah Pesan Customer,RS Swasta,Jakarta Utara,4107875.0
+RT00020,009786,C014,RSP039,2024-03-10,IV Catheter 22G,Consumable,14563500.0,Salah Pesan Customer,RS Pemerintah,Bogor,4107875.0
+RT00058,010180,D015,RSS019,2024-11-16,Penlight Diagnostik,Diagnostik,364000.0,Salah Pesan Customer,RS Swasta,Jakarta Barat,4107875.0
+RT00049,010117,L004,RSS001,2024-09-08,Holder Vacutainer,Laboratorium,1760000.0,Salah Pesan Customer,RS Swasta,Tangerang,4107875.0
+RT00025,009883,B014,RSP036,2024-11-11,Duk Operasi 80x90cm,Bedah & Tindakan,1225500.0,Kadaluarsa,RS Pemerintah,Depok,4107875.0
+RT00013,009655,C014,KLN027,2024-12-29,IV Catheter 22G,Consumable,1782000.0,Salah Pesan Customer,Klinik,Jakarta Timur,4107875.0
+RT00033,009943,C006,KLN034,2024-06-25,Infus Set Anak,Consumable,11000.0,Salah Input Sistem,Klinik,Bogor,4107875.0
+RT00047,010096,C007,RSP049,2024-04-20,Syringe 1ml,Consumable,130000.0,Salah Input Sistem,RS Pemerintah,Jakarta Selatan,4107875.0
+RT00004,009541,C006,KLN041,2024-10-12,Infus Set Anak,Consumable,182000.0,Salah Pesan Customer,Klinik,Jakarta Timur,4107875.0
+RT00012,009645,D007,RSP009,2024-08-24,Rapid Test HbsAg,Diagnostik,15979000.0,Barang Rusak,RS Pemerintah,Tangerang,4107875.0
+RT00059,010182,D009,KLN033,2024-11-25,Glukometer Set,Diagnostik,1680000.0,Salah Input Sistem,Klinik,Jakarta Barat,4107875.0
+RT00044,010036,R012,RSS011,2024-05-02,Sarung Bantal Pasien,Perawatan & Rawat Inap,186000.0,Barang Rusak,RS Swasta,Jakarta Timur,4107875.0
+RT00019,009770,D009,KLN030,2024-05-06,Glukometer Set,Diagnostik,6300000.0,Salah Input Sistem,Klinik,Jakarta Selatan,4107875.0
+RT00054,010153,B009,RSP040,2024-12-12,Benang Catgut 2-0,Bedah & Tindakan,1760500.0,Salah Input Sistem,RS Pemerintah,Bekasi,4107875.0
+RT00030,009933,B013,RSS059,2024-10-02,Handscoon Steril 7.5,Bedah & Tindakan,12801000.0,Salah Pesan Customer,RS Swasta,Bekasi,4107875.0
+RT00048,010097,C007,RSP049,2024-05-01,Syringe 1ml,Consumable,845000.0,Salah Input Sistem,RS Pemerintah,Jakarta Selatan,4107875.0
+RT00029,009931,L008,KLN055,2024-12-03,Pot Urine 60ml Bertutup,Laboratorium,222000.0,Salah Input Sistem,Klinik,Bekasi,4107875.0
+RT00026,009891,D003,RSS028,2024-04-10,Pulse Oximeter,Diagnostik,427000.0,Salah Input Sistem,RS Swasta,Jakarta Selatan,4107875.0
+RT00035,009968,B009,RSS026,2024-05-09,Benang Catgut 2-0,Bedah & Tindakan,10678500.0,Salah Input Sistem,RS Swasta,Jakarta Utara,4107875.0
+RT00009,009608,B011,RSS070,2024-05-06,Handscoon Steril 6.5,Bedah & Tindakan,15645000.0,Salah Input Sistem,RS Swasta,Jakarta Pusat,4107875.0
+RT00007,009553,C007,RSS021,2024-05-12,Syringe 1ml,Consumable,141000.0,Barang Rusak,RS Swasta,Tangerang,4107875.0
+RT00014,009659,C012,KLN028,2024-03-07,IV Catheter 18G,Consumable,1992000.0,Salah Input Sistem,Klinik,Jakarta Pusat,4107875.0
+RT00001,009502,B006,RSS011,2024-10-22,Klem Arteri Bengkok,Bedah & Tindakan,1440000.0,Salah Pesan Customer,RS Swasta,Jakarta Timur,4107875.0
+RT00010,009627,D011,KLN011,2024-10-19,Urine Stick 10 Parameter,Diagnostik,261000.0,Salah Input Sistem,Klinik,Bekasi,4107875.0
+RT00057,010170,R010,RSS045,2024-03-10,Baju Pasien Dewasa,Perawatan & Rawat Inap,266000.0,Barang Rusak,RS Swasta,Depok,4107875.0
+RT00008,009595,L003,KLN006,2024-09-08,Tabung Vacutainer Citrate,Laboratorium,875000.0,Salah Input Sistem,Klinik,Bogor,4107875.0
+RT00051,010133,D011,KLN030,2024-01-24,Urine Stick 10 Parameter,Diagnostik,455000.0,Salah Pesan Customer,Klinik,Jakarta Selatan,4107875.0
+RT00003,009515,C019,KLN014,2024-02-22,NGT 16Fr,Consumable,899000.0,Kadaluarsa,Klinik,Jakarta Utara,4107875.0
+RT00038,009979,R001,KLN067,2024-03-25,Kursi Roda Standar,Perawatan & Rawat Inap,9219000.0,Barang Rusak,Klinik,Jakarta Barat,4107875.0
+RT00050,010122,D012,RSP029,2024-11-20,Stethoscope Dewasa,Diagnostik,1834000.0,Salah Input Sistem,RS Pemerintah,Jakarta Barat,4107875.0
+RT00052,010139,R010,RSS058,2024-12-11,Baju Pasien Dewasa,Perawatan & Rawat Inap,1035500.0,Salah Input Sistem,RS Swasta,Jakarta Barat,4107875.0
+RT00022,009844,R011,RSS027,2024-10-13,Selimut Pasien Rumah Sakit,Perawatan & Rawat Inap,870000.0,Salah Input Sistem,RS Swasta,Jakarta Selatan,4107875.0
+RT00017,009697,B002,RSP008,2024-06-15,Gunting Bedah Bengkok 14cm,Bedah & Tindakan,1852500.0,Salah Input Sistem,RS Pemerintah,Jakarta Barat,4107875.0
+RT00041,010028,R008,RSP027,2024-04-20,Bedpan Plastik Dewasa,Perawatan & Rawat Inap,808500.0,Salah Input Sistem,RS Pemerintah,Jakarta Timur,4107875.0
