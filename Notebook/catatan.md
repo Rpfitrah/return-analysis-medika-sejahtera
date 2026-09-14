@@ -14,3 +14,5 @@ English
 4. Which healthcare institution types (customer types) return products most often?
 5. Which region recorded the highest number of return cases?
 6. What was the return trend throughout 2024 — is there a monthly or seasonal pattern?
+
+Salah Input Sistem (47.46%) dan Salah Pesan Customer (33.90%) sama-sama jadi kontributor besar (gabungan 81.36% dari total kasus), namun keduanya berasal dari titik kegagalan yang berbeda — satu dari proses internal, satu dari sisi customer saat order — sehingga butuh dua jalur penanganan terpisah, bukan satu solusi tunggal
