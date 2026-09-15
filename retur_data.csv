@@ -1,0 +1,60 @@
+﻿retur_id,invoice_id,so_id,sku_id,nama_produk,qty_returned,retur_reason,retur_date,status_retur,retur_value
+RT00001,009502,SO240001,B006,Klem Arteri Bengkok,9,Salah Pesan Customer,2024-10-22,In Progress,1440000
+RT00002,009510,SO240007,B014,Duk Operasi 80x90cm,22,Salah Pesan Customer,2024-07-21,Completed,1067000
+RT00003,009515,SO240011,C019,NGT 16Fr,31,Kadaluarsa,2024-02-22,Completed,899000
+RT00004,009541,SO240029,C006,Infus Set Anak,14,Salah Pesan Customer,2024-10-12,Completed,182000
+RT00005,009543,SO240031,L010,Objek Glass Frosted,10,Salah Input Sistem,2024-08-22,Completed,855000
+RT00006,009548,SO240034,R011,Selimut Pasien Rumah Sakit,11,Salah Pesan Customer,2024-12-04,In Progress,1045000
+RT00007,009553,SO240037,C007,Syringe 1ml,2,Barang Rusak,2024-05-12,Completed,141000
+RT00008,009595,SO240064,L003,Tabung Vacutainer Citrate,5,Salah Input Sistem,2024-09-08,Completed,875000
+RT00009,009608,SO240075,B011,Handscoon Steril 6.5,35,Salah Input Sistem,2024-05-06,Completed,15645000
+RT00010,009627,SO240090,D011,Urine Stick 10 Parameter,1,Salah Input Sistem,2024-10-19,Completed,261000
+RT00011,009644,SO240107,R009,Urinal Pria Plastik,33,Salah Pesan Customer,2024-10-11,Completed,1122000
+RT00012,009645,SO240108,D007,Rapid Test HbsAg,38,Barang Rusak,2024-08-24,Completed,15979000
+RT00013,009655,SO240117,C014,IV Catheter 22G,9,Salah Pesan Customer,2024-12-29,Completed,1782000
+RT00014,009659,SO240121,C012,IV Catheter 18G,8,Salah Input Sistem,2024-03-07,Completed,1992000
+RT00015,009669,SO240127,D014,Timbangan Bayi Digital,3,Slh Input,2024-01-26,In Progress,1587000
+RT00016,009694,SO240144,B004,Pinset Bedah 14cm,16,Salah Input Sistem,2024-10-13,Completed,912000
+RT00017,009697,SO240146,B002,Gunting Bedah Bengkok 14cm,15,Salah Input Sistem,2024-06-15,In Progress,1852500
+RT00018,009749,SO240188,D002,Tensimeter Manual Dewasa,8,Salah Input Sistem,2024-09-19,Completed,1908000
+RT00019,009770,SO240199,D009,Glukometer Set,25,Slh Input,2024-05-06,Completed,6300000
+RT00020,009786,SO240210,C014,IV Catheter 22G,57,Salah Pesan Customer,2024-03-10,Completed,14563500
+RT00021,009825,SO240238,L002,Tabung Vacutainer Plain,2,Salah Input Sistem,2024-11-22,Completed,478000
+RT00022,009844,SO240252,R011,Selimut Pasien Rumah Sakit,12,Salah Input Sistem,2024-10-13,In Progress,870000
+RT00023,009861,SO240262,R007,Tiang Infus Stainless 5-Roda,13,Salah Pesan Customer,2024-12-23,Completed,6207500
+RT00024,009867,SO240266,R005,Bantal Angin Anti Decubitus,6,Salah Pesan Customer,2024-09-14,Completed,1290000
+RT00025,009883,SO240276,B014,Duk Operasi 80x90cm,19,Kadaluarsa,2024-11-11,In Progress,1225500
+RT00026,009891,SO240283,D003,Pulse Oximeter,2,Salah Input Sistem,2024-04-10,Completed,427000
+RT00027,009902,SO240293,C020,Spalk Lengan Anak,12,Salah Input Sistem,2024-08-06,Completed,252000
+RT00028,009926,SO240312,R011,Selimut Pasien Rumah Sakit,6,Salah Pesan Customer,2024-09-04,In Progress,657000
+RT00029,009931,SO240315,L008,Pot Urine 60ml Bertutup,2,Salah Input Sistem,2024-12-03,Completed,222000
+RT00030,009933,SO240317,B013,Handscoon Steril 7.5,34,Salah Pesan Customer,2024-10-02,In Progress,12801000
+RT00031,009934,SO240318,L005,Jarum Vacutainer 21G,10,Barang Rusak,2024-09-02,In Progress,1885000
+RT00032,009937,SO240320,L005,Jarum Vacutainer 21G,4,Salah Pesan Customer,2024-12-13,In Progress,736000
+RT00033,009943,SO240326,C006,Infus Set Anak,1,Salah Input Sistem,2024-06-25,Completed,11000
+RT00034,009950,SO240330,C006,Infus Set Anak,15,Salah Input Sistem,2024-09-04,Completed,202500
+RT00035,009968,SO240344,B009,Benang Catgut 2-0,27,Salah Input Sistem,2024-05-09,Completed,10678500
+RT00036,009969,SO240344,B009,Benang Catgut 2-0,14,Salah Pesan Customer,2024-04-25,Completed,5537000
+RT00037,009970,SO240345,D011,Urine Stick 10 Parameter,58,customer salah pesan,2024-06-16,Completed,18473000
+RT00038,009979,SO240352,R001,Kursi Roda Standar,7,Barang Rusak,2024-03-25,Completed,9219000
+RT00039,010010,SO240375,C019,NGT 16Fr,20,Kadaluarsa,2024-07-03,Completed,390000
+RT00040,010023,SO240382,C005,Infus Set Dewasa,7,Salah Pesan Customer,2024-12-05,Completed,84000
+RT00041,010028,SO240386,R008,Bedpan Plastik Dewasa,21,Salah Input Sistem,2024-04-20,Completed,808500
+RT00042,010029,SO240387,D001,Tensimeter Digital Lengan,4,Barang Rusak,2024-03-02,Completed,1468000
+RT00043,010033,SO240390,D013,Stethoscope Anak,11,Kadaluarsa,2024-07-17,Completed,2761000
+RT00044,010036,SO240392,R012,Sarung Bantal Pasien,6,Barang Rusak,2024-05-02,Completed,186000
+RT00045,010078,SO240421,L004,Holder Vacutainer,3,Salah Input Sistem,2024-12-09,In Progress,367500
+RT00046,010092,SO240433,B002,Gunting Bedah Bengkok 14cm,5,Salah Pesan Customer,2024-05-14,Completed,417500
+RT00047,010096,SO240436,C007,Syringe 1ml,2,Salah Input Sistem,2024-04-20,Completed,130000
+RT00048,010097,SO240436,C007,Syringe 1ml,13,Salah Input Sistem,2024-05-01,Completed,845000
+RT00049,010117,SO240453,L004,Holder Vacutainer,20,Salah Pesan Customer,2024-09-08,Completed,1760000
+RT00050,010122,SO240455,D012,Stethoscope Dewasa,7,Salah Input Sistem,2024-11-20,In Progress,1834000
+RT00051,010133,SO240462,D011,Urine Stick 10 Parameter,2,Salah Pesan Customer,2024-01-24,In Progress,455000
+RT00052,010139,SO240468,R010,Baju Pasien Dewasa,19,Salah Input Sistem,2024-12-11,Completed,1035500
+RT00053,010143,SO240471,D007,Rapid Test HbsAg,22,Salah Input Sistem,2024-06-05,Completed,8195000
+RT00054,010153,SO240479,B009,Benang Catgut 2-0,7,Salah Input Sistem,2024-12-12,Completed,1760500
+RT00055,010155,SO240480,D003,Pulse Oximeter,15,Salah Input Sistem,2024-07-04,In Progress,4650000
+RT00056,010158,SO240483,D002,Tensimeter Manual Dewasa,2,Salah Pesan Customer,2024-11-10,Completed,469000
+RT00057,010170,SO240491,R010,Baju Pasien Dewasa,4,Barang Rusak,2024-03-10,Completed,266000
+RT00058,010180,SO240499,D015,Penlight Diagnostik,14,Salah Pesan Customer,2024-11-16,In Progress,364000
+RT00059,010182,SO240500,D009,Glukometer Set,6,Slh Input,2024-11-25,Completed,1680000
